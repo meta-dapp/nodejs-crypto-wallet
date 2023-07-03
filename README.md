@@ -1,6 +1,6 @@
 ### nodejs-crypto-wallet
 
-En la parte 2 del video es necesario instalar los siguientes paquetes en las versiones que se indican:
+Para el vídeo de la segunda parte es necesario instalar los siguientes paquetes en las versiones que se indican para que funcione:
 
 - @truffle/hdwallet-provider@2.1.12
 - ethers@5.6.9
